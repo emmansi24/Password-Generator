@@ -1,2 +1,7 @@
-# Password-Generator
- a password generator where you can create your strong passwords and can copy them to your clipboard.
+
+## React Password Generator
+
+You can check out the application here [React Password Generator](https://fervent-volhard-f2991a.netlify.app/).
+
+
+
